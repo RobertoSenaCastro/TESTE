@@ -8,6 +8,6 @@ function funcaoTeste(n1) {
         tabuada[index] = n1 * index; 
 
         alert(`${index} x ${n1} = ${tabuada[index]}`)
-}
+    }
 
 }
